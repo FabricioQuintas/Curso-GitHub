@@ -1,4 +1,4 @@
-# Hyperblog :tw-26a1:
+# Hyperblog 
 
 Un blog para el [curso de Git y GitHub](https://platzi.com/cursos/git-github/ "curso de Git y GitHub") de [Platzi](https://platzi.com/home "Platzi").
 
